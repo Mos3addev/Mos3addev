@@ -10,6 +10,8 @@ I'm committed to continuous learning and building scalable, responsive web appli
 🎓 **Bachelor's in Software Engineering** from Helwan University (2019-2023)  
 📍 Based in Egypt  
 💼 Currently working at **Zewail City** as a React Developer
+🌐 **Portfolio:** [[https://your-portfolio-link.com](https://your-portfolio-link.com)](https://portfolio-mos3ad.vercel.app/)  
+A curated collection of my professional work, freelance projects, dashboards, and scalable React & Next.js applications.
 
 ---
 
